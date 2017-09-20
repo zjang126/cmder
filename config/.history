@@ -1,0 +1,509 @@
+composer -v
+composer -v
+comppser -v
+composer -v
+composer -v
+composer -v
+composer create-project topthink/think local.tp5.com --prefer-dist
+php -S localhost:8000 -t
+cd e
+cd e:
+F:\TP5\cmder\Cmder.exe
+memcached.exe -m 16
+ce:
+composer -v
+F:\就业班\day8-2017年8月11日-项目八\mem64\memcached.exe 
+composer -v
+F:\就业班\day8-2017年8月11日-项目八\mem64\memcached.exe 
+composer -v
+ce..
+ce
+cd
+cd
+ce
+cd ..
+cd 
+e
+cd "e
+cd:e
+cd:e
+cd
+e: cd
+local.tp.com
+e: local.tp.com
+pwd
+ls
+php think make:controller app\index\controller\Blog
+cd 
+e
+cd "e
+cd:e
+e: cd
+e: local.tp.com
+pwd
+local.tp.com/
+local.tp.com\
+local.tp.com
+cd local.tp.com
+ls
+php think make:controller app\index\controller\Blog
+e: cd
+cd local.tp.com
+ls
+php think make:controller app\index\controller\Blog
+e: cd
+cd local.tp.com
+ls
+php think make:controller app\index\controller\Blog
+composer-v
+composer -v
+composer -v\
+composer -v
+composer -v
+composer -v\
+composer -v
+f:
+cd ./tp5
+composer create-project topthink/think tp5.net --prefer-dist
+composer create-project topthink/think local.tp5.net --prefer-dist
+composer config -g repo.packagist composer https://packagist.phpcomposer.com
+composer create-project topthink/think local.tp5.com  --prefer-dist
+ls -lh
+cd local.tp5.com\
+php -S http://localhost -t public\
+php -S localhost:8000 -t public\
+php -S localhost:8000 -t public
+exit
+f:
+cd ./jianshu
+composer create-project --prefer-dist laravel/laravel jianshu "5.4.21"
+exit
+composer create-project --prefer-dist laravel/laravel jianshu "5.4.21"
+composer -v
+exit
+exit
+composer create-project --prefer-dist laravel/laravel jianshu "5.4.21"
+composer -v
+exit
+cd ./jianshu
+composer create-project --prefer-dist laravel/laravel jianshu "5.4.21"
+exit
+composer create-project --prefer-dist laravel/laravel jianshu "5.4.21"
+composer -v
+exit
+exit
+composer create-project --prefer-dist laravel/laravel jianshu "5.4.21"
+exit
+composer -v
+f:
+ l_shop
+ l_shop
+ l_shop cd
+omposer create-project topthink/think local.tp5.com  --prefer-dist
+
+cd ../
+
+composer create-project  lshop.net  --prefer-dist
+omposer create-project laravel/laravel --prefer-dist
+composer create-project laravel/laravel --prefer-dist
+omposer create-project topthink/think local.tp5.com  --prefer-dist
+composer create-project  lshop.net  --prefer-dist
+omposer create-project laravel/laravel --prefer-dist
+composer create-project laravel/laravel --prefer-dist
+  [Composer\Exception\NoSslException]
+  The openssl extension is required for SSL/TLS protection but is not available. If you can not enable the openssl ex
+  tension, you can disable this error, at your own risk, by setting the 'disable-tls' option to true.
+composer -v3
+composer -v
+  [Composer\Exception\NoSslException]
+  The openssl extension is required for SSL/TLS protection but is not available. If you can not enable the openssl ex
+  tension, you can disable this error, at your own risk, by setting the 'disable-tls' option to true.
+  [Composer\Exception\NoSslException]
+  The openssl extension is required for SSL/TLS protection but is not available. If you can not enable the openssl ex
+  tension, you can disable this error, at your own risk, by setting the 'disable-tls' option to true.
+e:
+cd ../
+cd l_shop
+composer create-project --prefer-dist laravel/laravel lshop
+ composer create-project --pre-dist laravel/laravel lshop 5.4.*
+composer create-project --pre-dist laravel/laravel lshop 5.4.*
+composer create-project --prefer-dist laravel/laravel lshop 5.4.*
+  The openssl extension is required for SSL/TLS protection but is not available. If you can not enable the openssl ex
+  tension, you can disable this error, at your own risk, by setting the 'disable-tls' option to true.
+composer create-project --prefer-dist laravel/laravel lshop
+ composer create-project --pre-dist laravel/laravel lshop 5.4.*
+composer create-project --pre-dist laravel/laravel lshop 5.4.*
+composer create-project --prefer-dist laravel/laravel lshop 5.4.*
+e:/l_shop
+e:
+\l_shop
+cd ../
+cd l_shop
+composer config -g repo.packagist composer https://packagist.phpcomposer.com
+composer create-project laravel/laravel  lshop --prefer-dist
+php -r
+php --ini
+php --ini
+composer create-project laravel/laravel  lshop --prefer-dist
+composer create-project --prefer-dist laravel/laravel lshop 5.4.*
+e:/l_shop
+e:
+\l_shop
+cd ../
+composer config -g repo.packagist composer https://packagist.phpcomposer.com
+composer create-project laravel/laravel  lshop --prefer-dist
+php --ini
+php --ini
+e: 
+cd ..\
+cd l_shop
+composer -v
+composer create-project topthink/think local.tp5.com  --prefer-dist
+composercreate-project laravel/laravel  lshop --prefer-dist
+composer create-project laravel/laravel  lshop --prefer-dist
+php -r
+php -r file_exists
+yum update -y
+composer create-project laravel/laravel lshop
+exit
+composer create-project laravel/laravel lshop
+php -r
+php -r file_exists
+yum update -y
+composer create-project laravel/laravel lshop
+f: 
+e:
+cd ../
+f:
+composer create-project laravel/laravel lshop
+Script php -r "file_exists('.env') || copy('.env.example', '.env');" handling the post-root-package-install event returned with error code 1 Script php -r "file_exists('.env') || copy('.env.example', '.env');" handling the post-root-package-install event retur ned with error code 13
+composer create-project laravel/laravel l_shop
+exir
+exit
+composer create-project laravel/laravel lshop
+Script php -r "file_exists('.env') || copy('.env.example', '.env');" handling the post-root-package-install event returned with error code 1 Script php -r "file_exists('.env') || copy('.env.example', '.env');" handling the post-root-package-install event retur ned with error code 13
+exir
+exit
+e:
+cd ../
+omposer create-project laravel/laravel l_shop
+composer create-project laravel/laravel l_shop
+cd l_shop
+php artisan key:generate
+php artisan serve
+php --ini
+cd l_shop
+php artisan key:generate
+php artisan serve
+php --ini
+e:
+cd ../
+composer create-project laravel/laravel l_laravel
+cd ../
+e:
+d:
+cd phpstudy
+cd www
+composer create-project laravel/laravel l_laravel
+f:
+composer create-project laravel/laravel=5.4.* laravel --prefer-dist
+exit
+exit
+
+composer create-project tothink/thinkphp=3.2.1 pshop --prefer-dist
+composer create-project tothinkphp/thinkphp=3.2.1 pshop --prefer-dist
+exit
+exit
+exit
+composer create-project tothink/thinkphp=3.2.1 pshop --prefer-dist
+composer create-project tothinkphp/thinkphp=3.2.1 pshop --prefer-dist
+f:
+e:
+cd ../
+cd ./object
+composer create-project laravel/laravel=5.4.* lenovo --prefer-dist
+exit
+exit
+composer create-project tothink/thinkphp=3.2.1 pshop --prefer-dist
+composer create-project tothinkphp/thinkphp=3.2.1 pshop --prefer-dist
+f:
+composer create-project laravel/laravel=5.4.* lenovo --prefer-dist
+e:
+cd ../
+cd pbject
+cd ./pbject
+cd ./object
+composer create-project laravel/laravel=5.4.* lbook --prefer-dist
+exit
+cd pbject
+cd ./pbject
+cd ./object
+composer create-project laravel/laravel=5.4.* lbook --prefer-dist
+e:
+cd ../
+cd object
+cd lbook
+composer install
+composer update
+exit
+composer create-project tothink/thinkphp=3.2.1 pshop --prefer-dist
+composer create-project tothinkphp/thinkphp=3.2.1 pshop --prefer-dist
+composer create-project laravel/laravel=5.4.* lenovo --prefer-dist
+e:
+cd ../
+cd pbject
+cd ./pbject
+cd ./object
+composer create-project laravel/laravel=5.4.* lbook --prefer-dist
+exit
+cd pbject
+cd ./pbject
+cd ./object
+composer create-project laravel/laravel=5.4.* lbook --prefer-dist
+cd object
+cd lbook
+composer install
+composer update
+cd ./php_x
+cd ./php25期
+cd ./laravel
+cd ./Laravel5.4快速开发简书网站
+cd ./Elasticsearch-RTF
+cd ./elasticsearch-rtf
+bin\elasticsearch-plugin lisr
+bin\elasticsearch-plugin list > /tmp/plugin.log
+bin\elasticsearch-plugin list > 
+cd elasticsearch/bin
+cd ./bin
+elasticsearch.bat
+cd elasticsearch/bin elasticsearch.bat
+cd /bin elasticsearch.bat
+f:
+e:
+cd ../
+cd /lbook
+unzip elasticsearch-rtf-master.zip 
+ll
+cd elasticsearch-rtf-master
+bin\elasticsearch-plugin.bat 
+ls -lh
+bin\elasticsearch list
+bin/elasticsearch list
+bin/elasticsearch-plugin list
+bin\elasticsearch-plugin list
+java -version
+exit
+cd elasticsearch/bin elasticsearch.bat
+cd /bin elasticsearch.bat
+f:
+cd /lbook
+unzip elasticsearch-rtf-master.zip 
+cd elasticsearch-rtf-master
+bin\elasticsearch-plugin.bat 
+bin\elasticsearch list
+bin/elasticsearch list
+bin/elasticsearch-plugin list
+e:
+cd ../
+cd ./lbook
+java -v
+java -version
+pwd
+cd elasticsearch-rtf-master\
+bin/elasticesarch-plugin list
+ls -lh
+  ll
+ls
+bin\elasticsearch-plugin list >/tmp/plugin.log
+bin\elasticsearch-plugin list
+bin\elasticsearch-plugin list > /tmp/plugin.log
+bin\elasticsearch-plugin list>/tmp/plugin.log
+bin\elasticsearch-plugin list > ./tmp/plugin.log
+bin\elasticsearch-plugin list >tmp/plugin.log
+bin\elasticsearch-plugin list > \tmp/plugin.log
+bin\elasticsearch-plugin list > e:\lbook\elasticsearch-rtf-master/tmp/plugin.log
+bin\elasticsearch-plugin list > e:\lbook
+bin\elasticsearch-plugin list > f:
+exit
+ls
+bin\elasticsearch-plugin list >/tmp/plugin.log
+bin\elasticsearch-plugin list
+bin\elasticsearch-plugin list > /tmp/plugin.log
+bin\elasticsearch-plugin list>/tmp/plugin.log
+bin\elasticsearch-plugin list > ./tmp/plugin.log
+bin\elasticsearch-plugin list >tmp/plugin.log
+bin\elasticsearch-plugin list > \tmp/plugin.log
+bin\elasticsearch-plugin list > e:\lbook\elasticsearch-rtf-master/tmp/plugin.log
+bin\elasticsearch-plugin list > e:\lbook
+bin\elasticsearch-plugin list > f:
+e:
+cd ../
+cd ./lbook
+cd .\elasticsearch-rtf-master\
+ls -lh
+Could not reserve enough space for 2097152KB object heap
+java -Xmx2097153kb -version
+java -Xmx100000000M -version
+java -Xmx3000M -version
+args="-Dfile.encoding=UTF-8 -J-server -Xms8000M -Xmx8000M -Xmn2000M -J-Xss256K -J-
+java -XmM -version
+bin\elasticsearch -d
+JAVA -VERSION
+JAVA VERSION
+JAVA VERSION 1.8.55
+java version
+java version "1.8.55"
+java version "jdk1.8.0_144"
+exir
+exit
+java -XmM -version
+JAVA -VERSION
+JAVA VERSION
+JAVA VERSION 1.8.55
+java version
+java version "1.8.55"
+java version "jdk1.8.0_144"
+exir
+E:
+CD  ../
+cd./lbook
+cd .\elasticsearch-rtf-master\
+expost ES_HEAP_SIZE=8G
+bin\elasticsearch -Xmx3g -Xms3g
+./bin/elasticsearch -d
+bin/elasticsearch -d
+/bin/elasticsearch -d
+bin\service/elasticsearch install
+bin\elasticsearch -d
+exit
+java -XmM -version
+JAVA -VERSION
+JAVA VERSION
+JAVA VERSION 1.8.55
+java version
+java version "1.8.55"
+java version "jdk1.8.0_144"
+exir
+E:
+CD  ../
+cd./lbook
+expost ES_HEAP_SIZE=8G
+bin\elasticsearch -Xmx3g -Xms3g
+./bin/elasticsearch -d
+/bin/elasticsearch -d
+bin\service/elasticsearch install
+e: 
+ .\EditPlus\
+ .\lbook\
+ .\lbook
+cd .\lbook
+cd .\elasticsearch-rtf-master\
+Could not reserve enough space for 2097152KB object heap
+vim bin/shutdown.sh
+elasticesarch.bat
+bin/elasticesarch.bat
+bin\elasticesarch.bat
+bin/
+cd bin/
+ls -lh
+elasticsearch.bat
+ bin\elasticsearch -d
+ elasticsearch -d
+ elasticsearch -d
+cd ../
+ps aux|grep java
+elasticsearch -d
+bin/elasticsearch -d
+bin\elasticsearch -d
+exit
+e: 
+ .\EditPlus\
+ .\lbook\
+ .\lbook
+cd .\lbook
+Could not reserve enough space for 2097152KB object heap
+vim bin/shutdown.sh
+elasticesarch.bat
+bin/elasticesarch.bat
+bin\elasticesarch.bat
+bin/
+cd bin/
+elasticsearch.bat
+ bin\elasticsearch -d
+ elasticsearch -d
+ elasticsearch -d
+ps aux|grep java
+elasticsearch -d
+bin/elasticsearch -d
+d:
+cd .\elasticsearch-rtf-master\
+java -Xms512M -Xmx2048M -cp
+bin\elasticsearch,bat
+./bin/elasticsearch -Xmx10g -Xms10g
+bin\elasticsearch.bat
+bin/elasticsearch -Xmx10g -Xms10g
+bin\elasticsearch -d
+\cd elasticsearch/bin elasticsearch.bat
+\cd /bin elasticsearch.bat
+\cd bin elasticsearch.bat
+cd ./bin
+elasticsearch.bat 
+sudo -u ops ES_JAVA_OPTS="-Xms2024m -Xmx2024m
+java -v
+e:./object
+e:
+cd ./object
+cd ./lbook
+composer require laravel/scout
+composer require tamayo/laravel-scout-elastic
+composer require guzzlehttp/guzzle
+/bin elasticsearch.bat
+bin elasticsearch.bat
+cd ../bin elasticsearch.bat
+cd ../
+cd ./php_x
+cd .\php25期\laravel\Laravel5.4快速开发简书网站\
+cd .\Elasticsearch-RTF\
+ls -lh
+cd .\elasticsearch-rtf\
+bin\elasticsearch-plugin -d
+java -version
+bin\elasticsearch
+exit
+cd .\php25期\laravel\Laravel5.4快速开发简书网站\
+cd .\Elasticsearch-RTF\
+cd .\elasticsearch-rtf\
+bin\elasticsearch-plugin -d
+java -version
+bin\elasticsearch
+e:
+cd ../
+cd .\object\
+cd .\lbook\
+ls -lh
+composer require barryvdh/laravel-debugbar
+composer require barryvdh/laravel -debugbar
+composer require barryvdh/laravel-debugbar=2.4
+php artisan config:clear
+php artisan route:clear
+php artisan clear-compiled
+php artisan vendor:publish --provider="Barryvdh\Debugbar\ServiceProvider"
+exit
+ls -lh
+composer require barryvdh/laravel-debugbar
+composer require barryvdh/laravel -debugbar
+composer require barryvdh/laravel-debugbar=2.4
+php artisan config:clear
+php artisan route:clear
+php artisan clear-compiled
+php artisan vendor:publish --provider="Barryvdh\Debugbar\ServiceProvider"
+e:
+cd ../
+cd .\object
+cd. /lshop
+cd ./lshop
+cat
+pre-update-cmd
+composer create-project laravel/laravel 5.1.11 --prefer-dist
+composer create-project laravel/laravel blog 5.1.11 --prefer-dist
+exit
